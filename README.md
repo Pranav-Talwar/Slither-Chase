@@ -1,6 +1,7 @@
 <h1>Slither Chase 2D Game</h1>
 
-<img src="https://raw.githubusercontent.com/Pranav-Talwar/Slither-Chase/master/Assets/Screenshot 2025-02-17 222800.png" alt="Project Screenshot" />
+<!--  
+<img src="https://raw.githubusercontent.com/Pranav-Talwar/Slither-Chase/master/Assets/Screenshot 2025-02-17 222800.png" alt="Project Screenshot" />-->
 
 <img src="https://raw.githubusercontent.com/Pranav-Talwar/Slither-Chase/master/Assets/Screenshot 2025-02-17 222337.png" alt="Project Screenshot" />
 
